@@ -2,6 +2,10 @@
   "hits": [
     {
       "webformatURL": "https://raw.githubusercontent.com/uidhinc/divyafied/master/Flame.JPG",
+      "CategoryName": "Surprise"
+    },
+    {
+      "webformatURL": "https://raw.githubusercontent.com/uidhinc/divyafied/master/Flame.JPG",
       "CategoryName": "Flame"
     },
     {
@@ -19,6 +23,17 @@
     
   ],
   "Categories": [
+    {
+"Surprise": [
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/10.jpg",
+          "name": "Surprise"
+        },
+        {
+          "imageUrl": "https://raw.githubusercontent.com/uidhinc/divyafied/master/11.jpg",
+          "name": "Surprise"
+        }
+  ],
     {
 "Flame": [
         {
